@@ -1,5 +1,5 @@
-import React, {Component, useState} from "react";
-import '../styles/App.css';
+import React from "react";
+import ReactDOM from "react-dom";
 
 const App = () => {
   return (
